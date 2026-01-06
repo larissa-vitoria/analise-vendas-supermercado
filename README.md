@@ -15,7 +15,7 @@ Projeto de Business Intelligence focado na análise de performance de vendas de 
 
 Os dados originais ("Supermarket Sales - Kaggle") continham inconsistências de formatação regional e idioma. O tratamento foi realizado manualmente para garantir a integridade linha a linha:
 
-1.  **Tradução e Localização:** * Adaptação do cenário para o contexto brasileiro (Cidades: Yangon → Florianópolis, etc.).
+1.  **Tradução e Localização:** Adaptação do cenário para o contexto brasileiro (Cidades: Yangon → Florianópolis, etc.).
     * Tradução de categorias de produtos e tipos de clientes.
 2.  **Limpeza de Dados:**
     * **Correção de Datas:** Conversão de formatos mistos (americano/texto) para o padrão ISO (DD/MM/AAAA) através de ajustes de localidade na planilha.
