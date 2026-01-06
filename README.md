@@ -5,7 +5,7 @@ Projeto de Business Intelligence focado na análise de performance de vendas de 
 ## 📊 O Resultado Final
 > **[Clique aqui para acessar o Dashboard Interativo](https://lookerstudio.google.com/reporting/404af525-7203-4c1d-807a-6381ce5ba1b6)**
 
-![Preview do Dashboard](CAMINHO_DA_IMAGEM_DO_DASHBOARD.png)
+![Preview do Dashboard](print_dashboard_vendas_supermercado.png)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Google Sheets:** Limpeza, transformação e normalização dos dados.
